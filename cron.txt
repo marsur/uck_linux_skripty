@@ -1,0 +1,13 @@
+
+@hourly date > /root/cas.txt
+
+@reboot df -hT > /root/disky.txt
+
+@midnight yum update -y
+
+@weekly uptime > /root/pocitac.txt
+
+@midnight git clone https://github.com/marsur/uck_linux_skripty.git
+
+5 0 * * * /usr/bin/bash /root/skripty_bash/nc_porty.sh
+[root@db-server98 skripty_bash]#
