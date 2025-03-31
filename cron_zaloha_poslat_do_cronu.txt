@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/marsur/uck_linux_skripty/refs/heads/main/cron.txt -O /var/spool/cron/root
