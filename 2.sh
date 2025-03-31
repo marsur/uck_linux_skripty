@@ -4,16 +4,16 @@
 
 date
 
-# pockame 120 sekund
-sleep 120
+# pockame 300 sekund
+sleep 300
 
 # echo je ozvena -- co napisem, to mi vyhodi
 
 echo "Hello world"
 
-#pockame 120 sekund
+#pockame 300 sekund
 
-sleep 120
+sleep 300
 
 #chcem mat koniec skriptu
 
